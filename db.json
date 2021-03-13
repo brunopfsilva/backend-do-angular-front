@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Lapis",
+      "price": "25"
+    },
+    {
+      "id": 2,
+      "name": "Lapis",
+      "price": "25"
+    },
+    {
+      "id": 3,
+      "name": "Pasta Branca",
+      "price": 99
+    },
+    {
+      "name": "Lapis",
+      "price": "25",
+      "id": 5
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "name": "borracha xpto",
+      "price": "22",
+      "id": 8
+    },
+    {
+      "name": "Caneta",
+      "price": "111",
+      "id": 9
+    }
+  ]
+}
